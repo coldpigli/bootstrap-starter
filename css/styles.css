@@ -47,6 +47,10 @@ body{
   text-align: center;
   padding: 3%;
 }
+h2{
+  font-size: 3rem;
+  line-height: 1;
+}
 h3{
   font-weight: bold;
 }
@@ -59,4 +63,25 @@ p{
 }
 .icon:hover{
   color: #10002b;
+}
+
+#testimonials{
+  padding: 8% 16%;
+  text-align: center;
+  background-color: #10002b;
+  color: #ffffff;
+}
+.testimonial-image{
+  border-radius: 100%;
+  width: 20%;
+  margin-right: 5%;
+  padding-top: 2%;
+}
+#press{
+  background-color: #10002b;
+  text-align: center;
+}
+.press-image{
+  width: 15%;
+  margin: 25px 25px 70px;
 }
