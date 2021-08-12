@@ -99,5 +99,19 @@ p{
 }
 .card-body{
   color: #ffffff;
-  
+
+}
+@media (max-width: 1028px) {
+
+  #title{
+    text-align: center;
+  }
+  .title-image{
+    margin-left: 0;
+
+    transform: rotate(0);
+  }
+  .title-section{
+    text-align: center;
+  }
 }
