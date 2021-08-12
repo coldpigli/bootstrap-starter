@@ -101,6 +101,17 @@ p{
   color: #ffffff;
 
 }
+
+#cta{
+  text-align: center;
+  background-color: #10002b;
+  padding: 8% 16%;
+  color: #ffffff;
+}
+#footer{
+  text-align: center;
+  color: black;
+}
 @media (max-width: 1028px) {
 
   #title{
